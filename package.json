@@ -18,5 +18,11 @@
     "react": "19.2.8",
     "react-dom": "19.2.8",
     "typescript": "6.0.3"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-unused-imports": "^4.4.1",
+    "sass": "^1.104.0"
   }
 }
